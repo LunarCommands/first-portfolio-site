@@ -4,6 +4,7 @@
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
+    "start": "nuxt start",
     "preview": "nuxt preview",
     "deploy": "push-dir --dir=dist --branch=main --cleanup"
   },
